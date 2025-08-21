@@ -1,0 +1,8 @@
+
+----------------- USAGE ------------------
+
+in cli type:
+node index.js
+
+insert the url for the qr code.
+the qr code will be generated that directs to said url.
